@@ -9,7 +9,7 @@
 <h2 align="center">Tecnologia</h3> 
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,github,vscode" />
 </p>
 
 <h2 align="center"> Rede Social </h2>
